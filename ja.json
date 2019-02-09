@@ -1,0 +1,22 @@
+{
+    "@metadata": {
+        "authors": [
+            "T-taku"
+        ]
+    },
+    "Not Logged In":"ログインしていない",
+    "I need to know who you are before I can let you do things.":"あなたが設定ページを開く前に私はあなたについて知る必要があります。",
+    "Authorize with Discord to continue":"Discordに接続する",
+    "Welcome":"ようこそ。{username}",
+    "Change your settings":"あなたの設定を変更する",
+    "Change server settings":"サーバーの設定を変更する",
+    "Settings":"設定",
+    "Your command prefix":"あなたのコマンドプレフィックスを変更する",
+    "Your language":"あなたの言語",
+    "Message for Go Fish":"GoFishのメッセージを許可",
+    "Message for Connect 4":"Connect 4のメッセージを許可",
+    "Seve":"セーブ",
+    "Back":"バック",
+    "Servers":"サーバー",
+    "Choose a server to manage below.":"以下の項目からサーバーを選択してください。"
+}
